@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "TriMet Hop Card Variations"
+date:   2021-12-09 12:00:00 -0800
+categories: notes
+---
+
+This page was adapted from a page I created in Notion in April 2021. It is not formatted the same as that page due to limitations with Markdown. 
+[You can view the original Notion page here.](https://ctaetcsh.notion.site/TriMet-Hop-Card-Variations-79bc15da6f8c4d668ca9a558178a84cb)
+
+---
+
+## Regular Cards (System Introduction - Current)
+
+
+### Adult Regular
+
+The default for most plastic carrying enthusiasts, the Purple striped Hop card represents the most basic Hop card in circulation.
+
+| Type            | Price |
+|-----------------|-------|
+| New Card Charge | $3    |
+| 2.5 Hour Fare   | $2.50 |
+| All Day Fare    | $5    |
+
+![Hop Adult](https://cdn.ctaetcsh.com/img/blog/hop-cards/hop-adult.png)
+
+### Honored Citizen Regular
+
+The *Honored Citizen* Hop card features a green stripe down the edge of the card, a recurring theme to differentiate types of cards. Being available to those over 65+, with low income, a mental/physical disability or those on Medicare, it features reduced fares.
+
+| Type            | Price |
+|-----------------|-------|
+| New Card Charge | $3    |
+| 2.5 Hour Fare   | $1.25 |
+| All Day Fare    | $2.50 |
+
+![Hop Honored Citizen](https://cdn.ctaetcsh.com/img/blog/hop-cards/hop-honored.png)
+
+### Youth Regular
+
+With it's pretty Orange stripe, the *Youth* Hop Card represents the final card in this series. The *Youth* Hop card is available to ages 7-17 or those in High School pursuing a GED and features the same rates as the *Honored Citizen* Hop Pass.
+
+| Type            | Price |
+|-----------------|-------|
+| New Card Charge | $3    |
+| 2.5 Hour Fare   | $1.25 |
+| All Day Fare    | $2.50 |
+
+![Hop Youth](https://cdn.ctaetcsh.com/img/blog/hop-cards/hop-youth.png)
+
+## Special Edition Cards
+
+### 50th Anniversary Hop Card
+
+The 50th Anniversary Hop Card was given out to 5 winners in September 2019 with 5$ of pre-loaded balance. The front of the card features a design including the 50 Years emblem and Orange/Blue stripes seen on many Bus Skins. This card was only available in Adult variations.
+
+![Hop 50 years](https://cdn.ctaetcsh.com/img/blog/hop-cards/hop-50years.png)
+
+### 2019 Pride Hop Card
+
+Matching the Pride skin applied to many busses to celebrate Pride month in 2019, the design features a rainbow of bars with the text "Love moves us" printed below the Hop Fastpass emblem. 10 of these cards we're given out on Twitter, with more being passed out at the Portland Pride Parade on June 16. This card was only available in Adult 
+
+![Hop Pride](https://cdn.ctaetcsh.com/img/blog/hop-cards/hop-pride.png)
