@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "TriMet Hop Card Variations"
-date:   2021-12-09 12:00:00 -0800
+date:   2022-01-22 12:00:00 -0800
 categories: notes
 ---
 
 This page was adapted from a page I created in Notion in April 2021. It is not formatted the same as that page due to limitations with Markdown. 
 [You can view the original Notion page here.](https://ctaetcsh.notion.site/TriMet-Hop-Card-Variations-79bc15da6f8c4d668ca9a558178a84cb)
+
+This page has since been updated to include newer information.
 
 ---
 
@@ -59,6 +61,14 @@ The 50th Anniversary Hop Card was given out to 5 winners in September 2019 with 
 
 ### 2019 Pride Hop Card
 
-Matching the Pride skin applied to many busses to celebrate Pride month in 2019, the design features a rainbow of bars with the text "Love moves us" printed below the Hop Fastpass emblem. 10 of these cards we're given out on Twitter, with more being passed out at the Portland Pride Parade on June 16. This card was only available in Adult 
+Matching the Pride skin applied to many busses to celebrate Pride month in 2019, the design features a rainbow of bars with the text "Love moves us" printed below the Hop Fastpass emblem. 10 of these cards we're given out on Twitter, with more being passed out at the Portland Pride Parade on June 16. This card was only available in Adult.
 
 ![Hop Pride](https://cdn.ctaetcsh.com/img/blog/hop-cards/hop-pride.png)
+
+### 2022 Purple Raindrops Hop Card
+
+In March 2021, TriMet held a "Sector Symbol March Madness" event on social media, where people would vote on their favorite classic Sector Symbol. The winner of that event was the Purple Raindrops symbol. To commemorate the event, 25 limited edition Hop Cards were created with their design having purple raindrops. Like other special edition Hop Cards, each come pre-loaded with $5 of credit. Unlike other special editions, entrants could choose between Adult, Youth and Honored Citizen card types. Somewhat weird given the entrant rules still require you to be 18 to enter.
+
+Giveaway Page: [ Internet Archive Link ](https://web.archive.org/web/20220123071726/https://trimet.org/contest/purple-raindrops.htm)
+
+![Hop Purple Raindrops](https://cdn.ctaetcsh.com/img/blog/hop-cards/purple-raindrops.jpg)
